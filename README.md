@@ -8,4 +8,4 @@
 - JavaScript
 
 ## Contributors
-- [Joela](github.com/Joela007)
+- [Joela](github.com/joelavj)
